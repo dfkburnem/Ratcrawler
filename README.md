@@ -29,7 +29,7 @@ Download the executable from the releases page and run it directly:
 
 ## Usage
 
-1. **Update Addresses**: Update the "Addresses.txt" file with the wallet addresses to search for summoning matches.
+1. **Update Addresses**: Update the `addresses.txt` file with the wallet addresses to search for summoning matches.
 2. **Select Main Class**: Choose the main class(es) of heroes you want to search for.
 3. **Select Sub Class**: Choose the sub class(es) of heroes you want to search for.
 4. **Set Summons Range**: Specify the minimum and maximum number of summons remaining.
@@ -44,7 +44,7 @@ Download the executable from the releases page and run it directly:
 
 ## Important Notes
 
-- **Reference Files**: Ensure that the `addresses.txt` is located in the same directory from which the script or executable is run. If the "shrek.mp4" file is also located in the same directory, it will play on the first search after initialization.
+- **Reference Files**: Ensure that the `addresses.txt` is located in the same directory from which the script or executable is run. If the `shrek.mp4` file is also located in the same directory, it will play on the first search after initialization.
 - **Executable vs Script**: While the executable provides an easier way to run the application, it is not as trustless as running the script directly from the source code. If security and transparency are priorities, consider using the script.
 
 ## Tip Address
