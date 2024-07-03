@@ -1,0 +1,3 @@
+#burnem - example addresses. Update with your addresses below.
+0xc6227bf27CE498A51E693FF77202f63636f5CA7e
+0x6987cDba3fF1E166Cb4BC36C11E6f2fC1faf3CA1
